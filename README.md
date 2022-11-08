@@ -48,20 +48,20 @@ B 站番剧**索引页，播放页和详情页**中含有关于番剧的大量�
 ## 可视化
 
 <div align="center">
- <img src="https://github.com/QinxFeng620/Bilibili-selenium-2020Winter/blob/main/Top%2010%20%E7%83%AD%E9%97%A8%E6%A0%87%E7%AD%BE.png"/)
+ <img src="https://github.com/QinxFeng620/Bilibili-selenium-2020Winter/blob/main/Visualization/Top%2010%20%E7%83%AD%E9%97%A8%E6%A0%87%E7%AD%BE.png"/)
 </div>  
  
 **标签词云**
 
-![说明](https://github.com/QinxFeng620/Bilibili-selenium-2020Winter/blob/main/%E7%83%AD%E9%97%A8%E6%A0%87%E7%AD%BE%E8%AF%8D%E4%BA%91.png)
+![说明](https://github.com/QinxFeng620/Bilibili-selenium-2020Winter/blob/main/Visualization/%E7%83%AD%E9%97%A8%E6%A0%87%E7%AD%BE%E8%AF%8D%E4%BA%91.png)
 
 **特征的皮尔逊系数图**
 
-![说明](https://github.com/QinxFeng620/Bilibili-selenium-2020Winter/blob/main/heatmap.png)
+![说明](https://github.com/QinxFeng620/Bilibili-selenium-2020Winter/blob/main/Visualization/heatmap.png)
 
 **模型对比**
  
-![说明](https://github.com/QinxFeng620/Bilibili-selenium-2020Winter/blob/main/model%20comparison.png)
+![说明](https://github.com/QinxFeng620/Bilibili-selenium-2020Winter/blob/main/Visualization/model%20comparison.png)
 
 
 
