@@ -2,4 +2,6 @@
 1. 数据采集：使用Selenium和Requests，爬取索引页、播放页、详情页中3346部番剧的播放量，类别等相关字段共68个；
 2. 数据处理与分析：使用Numpy和Pandas对数据进行清洗转换，将变量分为番剧属性和互动属性，使用描述性统计和可视化分析B站高分番剧的特征；
 3. 模型构建：将变量分为连续型和离散型，使用皮尔逊相关系数和Lasso回归分别进行筛选，选择随机森林构建了番剧评分的影响因素分析模型，结果显示治愈类的番剧更受欢迎，而战斗类的番剧不容易获得高评分。
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/a57542ad-619b-46b7-ade2-303071a1f3fd)
+![筛选后字段信息](https://github.com/user-attachments/assets/ff257aca-2497-4af6-be11-742a95b50875)
+
